@@ -1,7 +1,7 @@
 {
   "name": "adviser",
-  "version": "0.0.1-beta",
-  "description": "Simple, lightweight, client-side form validation plugin for jQuery and Zepto",
+  "version": "0.0.1",
+  "description": "Simple, configurable, form validation plugin for jQuery",
   "main": "adviser.js",
   "repository": {
     "type": "git",
@@ -9,7 +9,6 @@
   },
   "keywords": [
     "jquery",
-    "zepto",
     "form",
     "validation"
   ],

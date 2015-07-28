@@ -1,6 +1,6 @@
 # Adviser.js
 
-Simple, lightweight, client-side form validation plugin for jQuery and Zepto.
+Simple, configurable, form validation plugin for jQuery.
 
 ## Install
 
