@@ -1,0 +1,24 @@
+{
+  "name": "adviser",
+  "version": "0.0.1-beta",
+  "homepage": "https://github.com/featherweightweb/adviser",
+  "authors": [
+    "Benjamin Dummer <dummerbenjamin@gmail.com>"
+  ],
+  "description": "Simple, lightweight, client-side form validation plugin for jQuery and Zepto",
+  "main": "adviser.js",
+  "keywords": [
+    "form",
+    "validation",
+    "jquery",
+    "zepto"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
